@@ -1,0 +1,6 @@
+
+.DS_Store
+*.xml
+/__pycache__
+*.xml
+/.idea
